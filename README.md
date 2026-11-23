@@ -4,6 +4,10 @@
 
 Este repositorio documenta operaciones iniciales de la terminal Linux: navegar, crear directorios, copiar y mover archivos, leer su contenido y consultar el sistema. Está relacionado con el Laboratorio 2 de Gestión de Sistemas Operativos II.
 
+## Documento del laboratorio
+
+[Consultar el Laboratorio 2 de Jean Quiroz y Herald Pimentel en PDF](Laboratorio_2_Jean_Quiroz_Herald_Pimentel.pdf). Se adjunta el archivo académico existente, que incluye la consigna y sus capturas. La documentación de este repositorio no representa una nueva ejecución del laboratorio. La guía docente y los aportes de terceros conservan sus derechos de autor.
+
 ## Alcance y estado
 
 El procedimiento está preparado para reproducirse en una carpeta de práctica de una cuenta sin privilegios administrativos. No se adjuntan aquí capturas nuevas ni se afirma que estos comandos se hayan ejecutado durante la preparación de este repositorio.
